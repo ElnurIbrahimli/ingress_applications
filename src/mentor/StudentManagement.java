@@ -21,11 +21,13 @@ public class StudentManagement {
     }
 
     //TODO: bali 70den yuxari olan butun telebeleri ekrana capa veren method hazirla
+    //new methods
 
     public static void main(String[] args) {
         addStudent(new Student("test-name", 100));
         printAllStudents();
         //TODO: yeni yazilan methodu buradan cagir
+        //call the new methods
     }
 
 }
