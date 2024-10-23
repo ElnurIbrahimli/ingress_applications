@@ -29,7 +29,7 @@ public class StudentManagement {
         //TODO: yeni yazilan methodu buradan cagir
         //call the new methods
         //new changes
-        //  Study
+        //  Stud
     }
 
 }
